@@ -29,6 +29,6 @@ std::cout   << clr::on_red      << " red "
 ```
 ![image](https://user-images.githubusercontent.com/98309632/202897702-e45da53e-e301-4eb4-8695-59e9d1d5a4db.png)
 
-##Thanks
+## Thanks
 Partly learned from: [colored-cout](https://github.com/yurablok/colored-cout)
 Thanks very much
