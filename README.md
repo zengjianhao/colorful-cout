@@ -1,5 +1,5 @@
 # colorful-cout
-cout with colored output by overloading &lt;&lt;
+cout with colored output by overloading &lt;&lt; operator
 
 ## supported platforms
 - Windows
