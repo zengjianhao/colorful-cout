@@ -1,6 +1,11 @@
 # colorful-cout
 cout with colored output by overloading &lt;&lt;
 
+## supported platforms
+- Windows
+- macOS
+- Linux
+
 ## supported foreground-colors
 ```cpp
 std::cout << clr::red     << " red "
